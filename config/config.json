@@ -1,0 +1,20 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "kiAvCK)9GuS/({C.",
+    "database": "development",
+    "host": "35.190.207.148",
+    "port": "5432",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "production": {
+    "username": "postgres",
+    "password": "kiAvCK)9GuS/({C.",
+    "database": "production",
+    "host": "35.190.207.148",
+    "port": "5432",
+    "dialect": "postgres",
+    "logging": false
+  }
+}
